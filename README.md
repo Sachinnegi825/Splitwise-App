@@ -40,7 +40,7 @@ git clone https://github.com/Sachinnegi825/Splitwise-App.git
 
 ### 2. Navigate to the project directory
 
-cd splitwise-clone
+cd project
 
 ### 3. Install dependencies
 
